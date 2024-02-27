@@ -6,7 +6,7 @@
 
 `Turma 01 2024/1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O problema de encontrar professores qualificados para aulas particulares afeta diretamente pais de alunos e estudantes que enfrentam dificuldades em aprender conteúdos por conta própria. Essa dificuldade pode resultar em consequências significativas, como reprovação em semestres ou no ano letivo escolar, obstáculos em processos seletivos para faculdades e dificuldades em acompanhar matérias durante a graduação. A falta de suporte adequado para compreender os conteúdos pode gerar um ciclo de frustração e desmotivação, prejudicando o desempenho acadêmico e o progresso educacional dos aluno.
 
 ## Integrantes
 
