@@ -11,7 +11,7 @@ O problema de encontrar professores qualificados para aulas particulares afeta d
 ## Integrantes
 
 * Arthur de Oliveira Viotti
-* Frederico Zampier
+* Frederico Arleo Rezende Zampier
 * Lizandra Ruiz Cavalcante dos Santos
 * Lucas Chagas de Oliveira
 * Mailson da Silva Costa
