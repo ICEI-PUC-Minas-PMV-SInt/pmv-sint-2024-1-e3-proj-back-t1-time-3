@@ -1,10 +1,10 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`SISTEMAS PARA INTERNET`
 
-`DISCIPLINA`
+`DESENVOLVIMENTO WEB BACK END`
 
-`SEMESTRE`
+`Turma 01 2024/1`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
