@@ -7,10 +7,24 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
+<img src="img/persona1.jpeg" width="180px"> 
+<p>Nome: Luciana Andreia Daiane Pires</p>
+<p>Idade: 33</p>
+<p>Quais tecnologias usar: Facebook | Instagram | Tinder | TikTok | Youtube</p>
+<p>Ocupação: Formada em Arquitetura, trabalha como projetista em uma construtora que atende todo o território nacional</p>
+<p>Quem os influencia: Canal Ciência todo dia | professor ferretto</p>
+<p>Onde busca informação: Youtube | Tiktok</p>
+<p>hobby: Gosta de fazer cursos online nas horas vagas.</p>
+Sobre: 
+A Luciana é uma mulher de 33 anos que tem uma menina de 16 que quer tirar boas notas na escola, mas a filha nunca consegue decorar o conteúdo quando o professor está passando, porque muitos colega dela ficam falando na hora da aula quando o professor está ensinando.
+<p>
 
-![Luciana Andreia Daiane Pires](img/persona1.jpeg)
-
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+<p>Principais informações sobre a persona</p>
+<ul>
+ <li>Nascimento: 02/03/1991;</li>
+ <li>E-mail: luciana_pires@ibest.com.br;</li>
+ <li>Endereço: Rua Barlavento</li>
+</ul>
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
@@ -28,10 +42,18 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
+----------------------------------------------------------------------------------------------------
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|      Luciana       | Desejo uma aplicação que eu possa  | Isso me ajudaria a encontrar um        |
+|                    | filtrar os cursos por suas         |    curso especifico para minha         |
+|                    | especificações.                    |    filha assistir sem se destrair.     |
+|                    |                                    |                                        |
+|                    |                                    |                                        |
+|                    |                                    |                                        |
+|                    |                                    |                                        |
+----------------------------------------------------------------------------------------------------
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
