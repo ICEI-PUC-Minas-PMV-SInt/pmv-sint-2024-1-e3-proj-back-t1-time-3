@@ -16,7 +16,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 <p>Onde busca informação: Youtube | Tiktok</p>
 <p>hobby: Gosta de fazer cursos online nas horas vagas.</p>
 Sobre: 
-A Luciana é uma mulher de 33 anos que tem uma menina de 16 que quer tirar boas notas na escola, mas a filha nunca consegue decorar o conteúdo quando o professor está passando, porque muitos colegas dela ficam falando na hora da aula quando o professor está ensinando.
+A Luciana é uma mulher de 33 anos que tem uma menina de 16, que quer tirar boas notas na escola, mas a filha nunca consegue decorar o conteúdo quando o professor está passando, porque muitos colegas dela ficam falando na hora da aula, quando o professor está ensinando.
 <p>
 
 <p>Principais informações sobre a persona</p>
@@ -57,7 +57,7 @@ A Hadassa é uma mulher de 59 anos aposentada que adora dar aulas para jovens e 
 <p>Onde busca informação: Youtube | Jornal do brasil</p>
 <p>hobby: Adora ler livros de filósofos antigos.</p>
 Sobre: 
-Flávia é uma mulher de 45 anos, mãe de dois meninos, advogada que adora ler livros de filosofias antigas para ficar com a mente afiada na audiência.  Ela nunca tem tempo para os filhos. Diante disso, os filhos são muito mal na escola, sempre tirando notas baixas. 
+Flávia é uma mulher de 45 anos, mãe de dois meninos, advogada que adora ler livros de filosofias antigas para ficar com a mente afiada na audiência. Ela nunca tem tempo para os filhos. Diante disso, os filhos são muito mal na escola, sempre tirando notas baixas.
 <p>
 
 <p>Principais informações sobre a persona</p>
@@ -79,7 +79,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |      Luciana       | Desejo uma aplicação que eu possa  | Isso me ajudaria a encontrar um        |
 |                    | filtrar os cursos por suas         |    curso especifico para minha         |
-|                    | especificações.                    |    filha assistir sem se destrair.     |
+|                    | especificações.                    |    filha assistir sem se distrair.     |
 |                    |                                    |                                        |
 
 
