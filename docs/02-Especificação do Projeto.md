@@ -14,7 +14,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 <p>Ocupação: Formada em Arquitetura, trabalha como projetista em uma construtora que atende todo o território nacional</p>
 <p>Quem os influencia: Canal Ciência todo dia | professor ferretto</p>
 <p>Onde busca informação: Youtube | Tiktok</p>
-<p>hobby: Gosta de fazer cursos online nas horas vagas.</p>
+<p>hobby: Gosta de desenhar nas horas vagas.</p>
 Sobre: 
 A Luciana é uma mulher de 33 anos que tem uma menina de 16, que quer tirar boas notas na escola, mas a filha nunca consegue decorar o conteúdo quando o professor está passando, porque muitos colegas dela ficam falando na hora da aula, quando o professor está ensinando.
 <p>
@@ -77,8 +77,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|      Luciana       | Desejo uma aplicação que eu possa  | Isso me ajudaria a encontrar um        |
-|                    | filtrar os cursos por suas         |    curso especifico para minha         |
+|      Luciana       | Desejo uma aplicação que eu possa  | Isso me ajudaria a encontrar uma        |
+|                    | filtrar as disciplinas por suas         |  desciplina especifica para minha         |
 |                    | especificações.                    |    filha assistir sem se distrair.     |
 |                    |                                    |                                        |
 
