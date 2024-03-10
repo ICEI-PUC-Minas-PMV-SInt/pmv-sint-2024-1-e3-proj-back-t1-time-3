@@ -16,7 +16,15 @@ Além disso, a falta de acesso a aulas particulares de qualidade pode ampliar as
 
 ## Objetivos
 
-O projeto visa criar uma plataforma online que conecte alunos a professores qualificados, oferecendo aulas particulares em uma variedade de disciplinas. Os principais objetivos incluem proporcionar um ambiente de aprendizado personalizado, facilitar o acesso a instrutores especializados, e melhorar os resultados acadêmicos dos alunos.
+O projeto tem como missão criar uma plataforma online inovadora que estabeleça conexões valiosas entre alunos e professores qualificados, oferecendo aulas particulares em uma ampla variedade de disciplinas. Nosso objetivo principal é proporcionar um ambiente de aprendizado personalizado, onde cada aluno possa receber o suporte necessário para superar desafios acadêmicos e alcançar seu pleno potencial.
+
+Acreditamos que a chave para o sucesso educacional reside na acessibilidade a instrutores especializados, capazes de compreender as necessidades individuais de cada aluno. Com nossa plataforma, buscamos eliminar as barreiras geográficas e tornar o acesso a professores qualificados mais fácil do que nunca. Queremos oferecer uma rede diversificada de educadores apaixonados, prontos para compartilhar seus conhecimentos e inspirar os alunos a se destacarem em suas jornadas de aprendizado.
+
+Entendemos que melhorar os resultados acadêmicos dos alunos vai além de simplesmente transmitir informações; trata-se de cultivar uma relação de confiança e apoio mútuo entre professores e estudantes. Queremos que cada sessão de aprendizado seja uma experiência enriquecedora, onde os alunos se sintam encorajados a fazer perguntas, explorar novos conceitos e desenvolver habilidades que os levarão além da sala de aula.
+
+Além disso, estamos comprometidos em promover a inclusão e a equidade no acesso à educação. Queremos garantir que nossa plataforma seja acessível a todos, independentemente de sua origem socioeconômica ou localização geográfica. Acreditamos que todos os alunos têm o direito de receber um ensino de qualidade e estamos empenhados em tornar isso uma realidade.
+
+Em resumo, nossa plataforma não é apenas sobre conectar alunos a professores; é sobre construir uma comunidade de aprendizado onde cada indivíduo é valorizado e apoiado em sua jornada educacional. Estamos entusiasmados em fazer parte dessa transformação e em ajudar os alunos a alcançarem seu verdadeiro potencial acadêmico e além.
  
 
 
