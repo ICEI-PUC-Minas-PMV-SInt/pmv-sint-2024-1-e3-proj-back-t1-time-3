@@ -22,15 +22,46 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+<img src ="img/Tela inicial.png">
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+Tela inicial com informações da plataforma e redirecionamentos para login e cadastro
+
+<img src="img/cadastro_aluno.png">
+
+Tela de cadastro de alunos
+
+<img src="img/cadastro_professor.png">
+
+Tela de cadastro de professores
+
+<img src="img/login.png">
+
+Tela de login para o portal de cada modalidade
+
+<img src="img/portal_aluno.png">
+
+Tela inicial após login de alunos
+
+<img src="img/pesquisar_professor.png">
+
+Tela após pesquisa que mostra professores disponíveis em tal matéria selecionada
+
+<img src="img/marcar_aula.png">
+
+Tela para marcar uma aula com o professor selecionado
+
+<img src="img/portal_professor.png">
+
+Tela inicial após login no perfil professor e aulas para serem confirmadas
+
+<img src="img/perfil_professor.png">
+
+Tela de perfil com informações pessoais e valores a serem recebidos pelos professores
+
+<img src="img/chat.png">
+
+Tela de chat para troca de informações entre alunos e professores
+
+<img src="img/perfil.png">
+
+Tela de perfil de alunos
