@@ -46,10 +46,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|  ID  |  Descrição do Requisito  | Prioridade |
+|------|--------------------------------------------------------------------------------------------------|----|
+|RF-001| O sistema deve permitir que os usuários realizem o cadastro fornecendo suas informações pessoais | ALTA | 
+|RF-002| Permitir que os usuários façam login em suas contas usando um nome de usuário e uma senha válidos | MÉDIA |
+|RF-003| O sistema deve permitir que os usuários filtrem todas as matérias presentes na plataforma para exibir apenas aquelas predefinidas pelo usuário | ALTA | 
+|RF-004| O sistema deve permitir que os usuários pesquisem por datas e horários de disponibilidade, de acordo com as matérias filtradas | MÉDIA |
+|RF-005| O sistema deve permitir que os usuários visualizem o perfil do professor | ALTA | 
+|RF-006| O sistema deve permitir que os usuários agendem uma hora e data de acordo com a disponibilidade do professor | MÉDIA |
 
 ### Requisitos não Funcionais
 
