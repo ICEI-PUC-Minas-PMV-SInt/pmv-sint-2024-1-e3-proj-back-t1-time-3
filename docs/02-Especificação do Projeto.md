@@ -10,7 +10,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 <img src="img/persona1.jpeg" width="180px"> 
 <p>Nome: Luciana Andreia Daiane Pires</p>
 <p>Idade: 33</p>
-<p>Quais tecnologias usar: Facebook | Instagram | Tinder | TikTok | Youtube</p>
+<p>Quais tecnologias usa: Facebook | Instagram | Tinder | TikTok | Youtube</p>
 <p>Ocupação: Formada em Arquitetura, trabalha como projetista em uma construtora que atende todo o território nacional</p>
 <p>Quem os influencia: Canal Ciência todo dia | professor ferretto</p>
 <p>Onde busca informação: Youtube | Tiktok</p>
@@ -21,8 +21,8 @@ A Luciana é uma mulher de 33 anos que tem uma menina de 16, que quer tirar boas
 
 <p>Principais informações sobre a persona</p>
 <ul>
- <li>Nascimento: 02/03/1991;</li>
- <li>E-mail: luciana_pires@ibest.com.br;</li>
+ <li>Nascimento: 02/03/1991</li>
+ <li>E-mail: luciana_pires@ibest.com.br</li>
  <li>Endereço: Rua Barlavento</li>
 </ul>
 
@@ -30,19 +30,19 @@ A Luciana é uma mulher de 33 anos que tem uma menina de 16, que quer tirar boas
 <img src="img/persona2.jpeg" width="180px"> 
 <p>Nome: Hadassa Fernanda Débora Dias</p>
 <p>Idade: 59</p>
-<p>Quais tecnologias usar: WhatsApp | X | LinkedIn </p>
+<p>Quais tecnologias usa: WhatsApp | X | LinkedIn </p>
 <p>Ocupação: Pedagogia</p>
 <p>Quem os influencia:  | professor Andre | professor Carlos</p>
 <p>Onde busca informação: X | Google</p>
-<p>hobby: Adora dar aulas para jovens..</p>
+<p>hobby: Adora dar aulas para jovens.</p>
 Sobre: 
 A Hadassa é uma mulher de 59 anos aposentada que adora dar aulas para jovens e ensina tudo que aprendeu em toda sua vida. 
 <p>
 
 <p>Principais informações sobre a persona</p>
 <ul>
- <li>Nascimento: 02/03/1965;</li>
- <li>E-mail: hadassa_dias@deze7.com.br;</li>
+ <li>Nascimento: 02/03/1965</li>
+ <li>E-mail: hadassa_dias@deze7.com.br</li>
  <li>Endereço: Rua I</li>
 </ul>
 
@@ -51,7 +51,7 @@ A Hadassa é uma mulher de 59 anos aposentada que adora dar aulas para jovens e 
 <img src="img/persona3.jpeg" width="180px"> 
 <p>Nome: Flávia Priscila Monteiro</p>
 <p>Idade: 45</p>
-<p>Quais tecnologias usar: Instagram | WhatsApp | Kwai | LinkedIn | Youtube </p>
+<p>Quais tecnologias usa: Instagram | WhatsApp | Kwai | LinkedIn | Youtube </p>
 <p>Ocupação: Advogada</p>
 <p>Quem os influencia:  | Canal Psicologia | Jornal do Brasil</p>
 <p>Onde busca informação: Youtube | Jornal do brasil</p>
@@ -62,8 +62,8 @@ Flávia é uma mulher de 45 anos, mãe de dois meninos, advogada que adora ler l
 
 <p>Principais informações sobre a persona</p>
 <ul>
- <li>Nascimento: 01/03/1979;</li>
- <li>E-mail: flavia-monteiro81@focusdm.com.br;</li>
+ <li>Nascimento: 01/03/1979</li>
+ <li>E-mail: flavia-monteiro81@focusdm.com.br</li>
  <li>Endereço: Rua São Felipe</li>
 </ul>
 
@@ -71,14 +71,14 @@ Flávia é uma mulher de 45 anos, mãe de dois meninos, advogada que adora ler l
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |      Luciana       | Desejo uma aplicação que eu possa  | Isso me ajudaria a encontrar uma        |
-|                    | filtrar as disciplinas por suas         |  desciplina especifica para minha         |
+|                    | filtrar as disciplinas por suas         |  disciplina específica para minha         |
 |                    | especificações.                    |    filha assistir sem se distrair.     |
 |                    |                                    |                                        |
 
@@ -89,7 +89,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |      Hadassa       |Quero uma plataforma intuitiva e de | Isso me ajudaria para eu dar aulas na  |
 |                    |fácil entendimento para poder dar   | plataforma de forma prática e eficaz,  |
 |                    |aulas para jovens.                  |já que eu sou aposentada e não tenho    |
-|                    |                                    | muita experiẽncia com informatica.     |          |                    |                                    |                                        |
+|                    |                                    | muita experiência com informática.     |          |                    |                                    |                                        |
 
 
 
