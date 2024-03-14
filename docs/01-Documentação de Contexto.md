@@ -1,36 +1,42 @@
 # Introdução
 
-No cenário educacional atual, muitos estudantes enfrentam desafios para encontrar professores qualificados que possam fornecer suporte adicional fora do ambiente escolar. A falta de recursos adequados para aprendizado personalizado pode resultar em dificuldades acadêmicas significativas, afetando o desempenho dos alunos em diversas etapas educacionais.
+
+No cenário educacional contemporâneo, muitos estudantes se veem confrontados com a árdua tarefa de encontrar mentores e professores qualificados que possam oferecer o suporte adicional tão necessário fora das paredes da escola. Essa busca por auxílio vai além do simples entendimento de conceitos; ela é uma busca por conexão humana, por alguém que compreenda suas dificuldades, anseios e potenciais.
+A carência de recursos adequados para uma aprendizagem verdadeiramente personalizada pode resultar em desafios acadêmicos significativos. Muitos alunos, por mais esforçados que sejam, se veem desamparados diante de dificuldades que não podem superar sozinhos. A ausência de um apoio personalizado pode afetar não apenas o desempenho acadêmico, mas também a autoestima e a motivação dos estudantes em todas as etapas de sua jornada educacional.
 
 ## Problema
-O problema central é a escassez de professores qualificados disponíveis para oferecer aulas particulares, tanto para alunos do ensino médio quanto para estudantes universitários. Isso leva a lacunas no entendimento dos conteúdos e pode resultar em consequências adversas, como reprovações em disciplinas, semestres ou até mesmo desistência dos estudos.
+O cerne do problema reside na escassez de professores qualificados que estejam disponíveis para oferecer aulas particulares, uma necessidade crucial tanto para alunos do ensino médio quanto para estudantes universitários. Essa carência não é apenas uma lacuna na transmissão de conhecimento, mas uma falha na construção de conexões significativas que impulsionam o aprendizado.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+A ausência de professores qualificados prontos para fornecerem esse suporte personalizado resulta em lacunas no entendimento dos conteúdos, deixando os alunos às voltas com dúvidas não resolvidas e conceitos mal compreendidos. Essas lacunas podem crescer rapidamente, levando a consequências adversas, como reprovações em disciplinas, semestres ou até mesmo à dolorosa decisão de abandonar os estudos.
+
+Para muitos alunos, enfrentar desafios acadêmicos sem a orientação adequada pode ser uma jornada solitária e desgastante. A frustração de não conseguir acompanhar o ritmo da classe ou de não compreender um tópico fundamental pode minar a confiança e o desejo de aprender. Essa experiência pode afetar não apenas o desempenho acadêmico, mas também a saúde emocional e o bem-estar geral do estudante.
+
+Além disso, a falta de acesso a aulas particulares de qualidade pode ampliar as disparidades educacionais, afetando desproporcionalmente aqueles que já enfrentam desafios socioeconômicos. A educação deveria ser um grande equalizador, mas quando alguns alunos têm acesso privilegiado a recursos educacionais adicionais, enquanto outros não têm, a equidade é comprometida.
+
 
 ## Objetivos
 
-O projeto visa criar uma plataforma online que conecte alunos a professores qualificados, oferecendo aulas particulares em uma variedade de disciplinas. Os principais objetivos incluem proporcionar um ambiente de aprendizado personalizado, facilitar o acesso a instrutores especializados, e melhorar os resultados acadêmicos dos alunos.
+O projeto tem como missão criar uma plataforma online inovadora que estabeleça conexões valiosas entre alunos e professores qualificados, oferecendo aulas particulares em uma ampla variedade de disciplinas. Nosso objetivo principal é proporcionar um ambiente de aprendizado personalizado, onde cada aluno possa receber o suporte necessário para superar desafios acadêmicos e alcançar seu pleno potencial.
+
+Acreditamos que a chave para o sucesso educacional reside na acessibilidade a instrutores especializados, capazes de compreender as necessidades individuais de cada aluno. Com nossa plataforma, buscamos eliminar as barreiras geográficas e tornar o acesso a professores qualificados mais fácil do que nunca. Queremos oferecer uma rede diversificada de educadores apaixonados, prontos para compartilhar seus conhecimentos e inspirar os alunos a se destacarem em suas jornadas de aprendizado.
+
+Entendemos que melhorar os resultados acadêmicos dos alunos vai além de simplesmente transmitir informações; trata-se de cultivar uma relação de confiança e apoio mútuo entre professores e estudantes. Queremos que cada sessão de aprendizado seja uma experiência enriquecedora, onde os alunos se sintam encorajados a fazer perguntas, explorar novos conceitos e desenvolver habilidades que os levarão além da sala de aula.
+
+Além disso, estamos comprometidos em promover a inclusão e a equidade no acesso à educação. Queremos garantir que nossa plataforma seja acessível a todos, independentemente de sua origem socioeconômica ou localização geográfica. Acreditamos que todos os alunos têm o direito de receber um ensino de qualidade e estamos empenhados em tornar isso uma realidade.
+
+Em resumo, nossa plataforma não é apenas sobre conectar alunos a professores; é sobre construir uma comunidade de aprendizado onde cada indivíduo é valorizado e apoiado em sua jornada educacional. Estamos entusiasmados em fazer parte dessa transformação e em ajudar os alunos a alcançarem seu verdadeiro potencial acadêmico e além.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
 
 ## Justificativa
 
 A justificativa para o desenvolvimento desta plataforma reside na necessidade urgente de fornecer suporte educacional personalizado para estudantes que enfrentam dificuldades em acompanhar o currículo escolar. Oferecer acesso fácil a professores qualificados pode ajudar a preencher lacunas de aprendizado, aumentar a confiança dos alunos e promover um ambiente de estudo mais inclusivo e eficaz.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
 
 ## Público-Alvo
 
 O público-alvo deste projeto são pais de alunos preocupados com o progresso educacional de seus filhos, bem como estudantes do ensino médio e universitários que buscam reforço acadêmico em disciplinas específicas. A plataforma também pode atrair professores em busca de oportunidades adicionais de ensino e compartilhamento de conhecimento.
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+

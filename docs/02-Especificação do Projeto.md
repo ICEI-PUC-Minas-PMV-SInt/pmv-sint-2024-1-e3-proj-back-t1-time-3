@@ -7,38 +7,103 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
+<img src="img/persona1.jpeg" width="180px"> 
+<p>Nome: Luciana Andreia Daiane Pires</p>
+<p>Idade: 33</p>
+<p>Quais tecnologias usar: Facebook | Instagram | Tinder | TikTok | Youtube</p>
+<p>Ocupação: Formada em Arquitetura, trabalha como projetista em uma construtora que atende todo o território nacional</p>
+<p>Quem os influencia: Canal Ciência todo dia | professor ferretto</p>
+<p>Onde busca informação: Youtube | Tiktok</p>
+<p>hobby: Gosta de desenhar nas horas vagas.</p>
+Sobre: 
+A Luciana é uma mulher de 33 anos que tem uma menina de 16, que quer tirar boas notas na escola, mas a filha nunca consegue decorar o conteúdo quando o professor está passando, porque muitos colegas dela ficam falando na hora da aula, quando o professor está ensinando.
+<p>
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+<p>Principais informações sobre a persona</p>
+<ul>
+ <li>Nascimento: 02/03/1991;</li>
+ <li>E-mail: luciana_pires@ibest.com.br;</li>
+ <li>Endereço: Rua Barlavento</li>
+</ul>
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+----------------------------------------------------------------------------------------------------
+<img src="img/persona2.jpeg" width="180px"> 
+<p>Nome: Hadassa Fernanda Débora Dias</p>
+<p>Idade: 59</p>
+<p>Quais tecnologias usar: WhatsApp | X | LinkedIn </p>
+<p>Ocupação: Pedagogia</p>
+<p>Quem os influencia:  | professor Andre | professor Carlos</p>
+<p>Onde busca informação: X | Google</p>
+<p>hobby: Adora dar aulas para jovens..</p>
+Sobre: 
+A Hadassa é uma mulher de 59 anos aposentada que adora dar aulas para jovens e ensina tudo que aprendeu em toda sua vida. 
+<p>
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+<p>Principais informações sobre a persona</p>
+<ul>
+ <li>Nascimento: 02/03/1965;</li>
+ <li>E-mail: hadassa_dias@deze7.com.br;</li>
+ <li>Endereço: Rua I</li>
+</ul>
+
+
+----------------------------------------------------------------------------------------------------
+<img src="img/persona3.jpeg" width="180px"> 
+<p>Nome: Flávia Priscila Monteiro</p>
+<p>Idade: 45</p>
+<p>Quais tecnologias usar: Instagram | WhatsApp | Kwai | LinkedIn | Youtube </p>
+<p>Ocupação: Advogada</p>
+<p>Quem os influencia:  | Canal Psicologia | Jornal do Brasil</p>
+<p>Onde busca informação: Youtube | Jornal do brasil</p>
+<p>hobby: Adora ler livros de filósofos antigos.</p>
+Sobre: 
+Flávia é uma mulher de 45 anos, mãe de dois meninos, advogada que adora ler livros de filosofias antigas para ficar com a mente afiada na audiência. Ela nunca tem tempo para os filhos. Diante disso, os filhos são muito mal na escola, sempre tirando notas baixas.
+<p>
+
+<p>Principais informações sobre a persona</p>
+<ul>
+ <li>Nascimento: 01/03/1979;</li>
+ <li>E-mail: flavia-monteiro81@focusdm.com.br;</li>
+ <li>Endereço: Rua São Felipe</li>
+</ul>
+
+
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
+
+
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|      Luciana       | Desejo uma aplicação que eu possa  | Isso me ajudaria a encontrar uma        |
+|                    | filtrar as disciplinas por suas         |  desciplina especifica para minha         |
+|                    | especificações.                    |    filha assistir sem se distrair.     |
+|                    |                                    |                                        |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|      Hadassa       |Quero uma plataforma intuitiva e de | Isso me ajudaria para eu dar aulas na  |
+|                    |fácil entendimento para poder dar   | plataforma de forma prática e eficaz,  |
+|                    |aulas para jovens.                  |já que eu sou aposentada e não tenho    |
+|                    |                                    | muita experiẽncia com informatica.     |          |                    |                                    |                                        |
+
+
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|     Flávia         | Desejo uma aplicação com           |  Isso ajudaria meus filhos para poder  |
+|                    |  Cores visuais atraentes           | Estudar sem se distrair                |
+|                    |  para as mentes dos jovens         |                                        |
+|                    |  poder focar no conteúdo.          |                                        |
+                                                         
+
+
+
+
 
 ## Requisitos
 
