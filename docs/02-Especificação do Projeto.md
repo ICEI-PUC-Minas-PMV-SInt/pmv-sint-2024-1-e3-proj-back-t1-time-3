@@ -46,7 +46,7 @@ Formado em Pedagogia aposentada.
 
 | Quais tecnologias usa  | Principais informações sobre a persona | Quem os influencia |
 |---                     | ---                                    | ---                |
-| Facebook               |  Estudiosa                             |  Peulo Freire      |
+| Facebook               |  Estudiosa                             |  Paulo Freire      |
 | Instagram              |  Alegre                                |  Karl marx         |
 | Youtube                |  Aposentada                            |  Nelson Mandela    |
 
