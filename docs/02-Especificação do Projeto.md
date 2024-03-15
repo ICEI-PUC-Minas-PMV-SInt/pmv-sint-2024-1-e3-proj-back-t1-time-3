@@ -1,71 +1,79 @@
-# Especificações do Projeto
+Através de pesquisas de campo dentro do público alvo do projeto, foram estipuladas as personas que seguem juntamente de suas histórias de usuário, dando origem aos requisitos funcionais e não funcionais da aplicação.
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
-<img src="img/persona1.jpeg" width="180px"> 
-<p>Nome: Luciana Andreia Daiane Pires</p>
-<p>Idade: 33</p>
-<p>Quais tecnologias usa: Facebook | Instagram | Tinder | TikTok | Youtube</p>
-<p>Ocupação: Formada em Arquitetura, trabalha como projetista em uma construtora que atende todo o território nacional</p>
-<p>Quem os influencia: Canal Ciência todo dia | professor ferretto</p>
-<p>Onde busca informação: Youtube | Tiktok</p>
-<p>hobby: Gosta de desenhar nas horas vagas.</p>
-Sobre: 
-A Luciana é uma mulher de 33 anos que tem uma menina de 16, que quer tirar boas notas na escola, mas a filha nunca consegue decorar o conteúdo quando o professor está passando, porque muitos colegas dela ficam falando na hora da aula, quando o professor está ensinando.
-<p>
 
-<p>Principais informações sobre a persona</p>
-<ul>
- <li>Nascimento: 02/03/1991</li>
- <li>E-mail: luciana_pires@ibest.com.br</li>
- <li>Endereço: Rua Barlavento</li>
-</ul>
+
+<img src="img/persona1.jpeg" width="180px"> 
+
+### Luciana Andreia Daiane Pires
+
+
+Formado em Administração, trabalha em um escritório de gestão comercial.
+| MOTIVAÇÕES                                                                                                                                                                                                                     | FRUSTRAÇÕES                                                                                                                      | HOBBIES / HISTÓRIA                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A Luciana é uma mulher de 33 anos que tem uma menina de 16, que quer tirar boas notas na escola, mas a filha nunca consegue decorar o conteúdo quando o professor está passando, porque muitos colegas dela ficam falando na hora da aula, quando o professor está ensinando. | Ela não tem tempo para os filhos. | Luciana desde muito cedo sempre foi estudiosa, porem, a filha dela não consegue tirar boas notas. |
+
+| Quais tecnologias usa  | Principais informações sobre a persona | Quem os influencia |
+|---                     | ---                                    | ---                |
+| Facebook               |  Estudiosa                             |  professor Andre   |
+| Instagram              |  Alegre                                |  professor Carlos  |
+| Youtube                |  Sempre ocupada                        |  Brasil Noticias   |
+
+
+
+
+
 
 ----------------------------------------------------------------------------------------------------
-<img src="img/persona2.jpeg" width="180px"> 
-<p>Nome: Hadassa Fernanda Débora Dias</p>
-<p>Idade: 59</p>
-<p>Quais tecnologias usa: WhatsApp | X | LinkedIn </p>
-<p>Ocupação: Pedagogia</p>
-<p>Quem os influencia:  | professor Andre | professor Carlos</p>
-<p>Onde busca informação: X | Google</p>
-<p>hobby: Adora dar aulas para jovens.</p>
-Sobre: 
-A Hadassa é uma mulher de 59 anos aposentada que adora dar aulas para jovens e ensina tudo que aprendeu em toda sua vida. 
-<p>
 
-<p>Principais informações sobre a persona</p>
-<ul>
- <li>Nascimento: 02/03/1965</li>
- <li>E-mail: hadassa_dias@deze7.com.br</li>
- <li>Endereço: Rua I</li>
-</ul>
+
+
+<img src="img/persona2.jpeg" width="180px"> 
+
+### Hadassa Fernanda Débora Dias
+
+
+Formado em Pedagogia aposentada.
+
+| MOTIVAÇÕES                                                                                                                                                                                                                     | FRUSTRAÇÕES                                                                                                                      | HOBBIES / HISTÓRIA                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A Hadassa é uma mulher de 59 anos aposentada que adora dar aulas para jovens e ensina tudo que aprendeu em toda sua vida. | A hadassa é aposentada, não vai mais na escola, porem, ela ainda quer dar aula mais sem sair de casa. | A Hadassa sempre gostou de ensinar para as outras pessoas tudo que aprendia desde nova. |
+
+
+---
+
+
+| Quais tecnologias usa  | Principais informações sobre a persona | Quem os influencia |
+|---                     | ---                                    | ---                |
+| Facebook               |  Estudiosa                             |  Peulo Freire      |
+| Instagram              |  Alegre                                |  Karl marx         |
+| Youtube                |  Aposentada                            |  Nelson Mandela    |
 
 
 ----------------------------------------------------------------------------------------------------
 <img src="img/persona3.jpeg" width="180px"> 
-<p>Nome: Flávia Priscila Monteiro</p>
-<p>Idade: 45</p>
-<p>Quais tecnologias usa: Instagram | WhatsApp | Kwai | LinkedIn | Youtube </p>
-<p>Ocupação: Advogada</p>
-<p>Quem os influencia:  | Canal Psicologia | Jornal do Brasil</p>
-<p>Onde busca informação: Youtube | Jornal do brasil</p>
-<p>hobby: Adora ler livros de filósofos antigos.</p>
-Sobre: 
-Flávia é uma mulher de 45 anos, mãe de dois meninos, advogada que adora ler livros de filosofias antigas para ficar com a mente afiada na audiência. Ela nunca tem tempo para os filhos. Diante disso, os filhos são muito mal na escola, sempre tirando notas baixas.
-<p>
 
-<p>Principais informações sobre a persona</p>
-<ul>
- <li>Nascimento: 01/03/1979</li>
- <li>E-mail: flavia-monteiro81@focusdm.com.br</li>
- <li>Endereço: Rua São Felipe</li>
-</ul>
+### Flávia Priscila Monteiro
+
+
+Formado em Bacharel em Direito.
+
+| MOTIVAÇÕES                                                                                                                                                                                                                     | FRUSTRAÇÕES                                                                                                                      | HOBBIES / HISTÓRIA                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Flávia é uma mulher de 45 anos, mãe de dois meninos, advogada que adora ler livros de filosofias antigas para ficar com a mente afiada na audiência.  | Ela nunca tem tempo para os filhos. Diante disso, os filhos são muito mal na escola, sempre tirando notas baixas. | Flávia sempre gostou de ler desde nova. |
+
+
+
+| Quais tecnologias usa  | Principais informações sobre a persona | Quem os influencia |
+|---                     | ---                                    | ---                |
+| Telegram               |  adora ler livros                      |  Sócrates          |
+| Rediit                 |  estudiosa                             |  Karl marx         |
+| X                      |  advogada                              |  Ludwig Feuerbach  |
+
+
+---
+
 
 
 
