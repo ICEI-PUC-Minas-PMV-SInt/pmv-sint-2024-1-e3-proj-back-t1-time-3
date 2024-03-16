@@ -133,8 +133,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A aplicação web deverá ser hospedada em serviços que permitam uma excelente confiança e que a tornem escalável e segura. Além disso, haverá um enfoque na eficiência para garantir respostas rápidas e eficazes, viabilizada igualmente através de um endereço web próprio, juntamente com SSL para reforçar a proteção dos clientes contra potenciais ameaças. | ALTA | 
+|RNF-002| A interface do site deverá ser responsiva para que o usuário possa consumir o conteúdo em diferentes resoluções e modelos de tela. Os recursos das páginas devem ser facilmente acessíveis e interativos. | ALTA | 
+|RNF-003| O site garantirá um contraste visual significativo entre os elementos da interface. Critérios serão estabelecidos para assegurar que o contraste entre texto e cores de fundo seja adequado, além da seleção de fontes facilmente legíveis. | MÉDIA | 
+|RNF-004| A aplicação web deverá garantir a compatibilidade e desempenho nos navegadores mais utilizados atualmente, como: Chrome, Firefox, Safari e Edge, entre outros. Isso implica que o site deverá ser projetado e testado para operar sem falhas nos navegadores supracitados, assegurando uma experiência confortável para todos os usuários. | ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
