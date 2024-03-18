@@ -1,14 +1,16 @@
-
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia usada define as ferramentas usadas pela equipe para manter os códigos e artefatos organizados, além de organizar as tarefas do projeto. O objetivo é maximizar a produtividade e eficácia da equipe, através de recursos que padronizam processos, gerenciam fluxos de trabalho e otimizam resultados.
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+
+| Ambiente  | Plataforma | Link de Acesso |
+| ------------- | ------------- | ------------- |
+| Repositório de Código Fonte e Documentos do Projeto  | Github | https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2024-1-e3-proj-back-t1-time-3 |
+| Projeto de Interface e  Wireframes  | MarvelApp  | [Temporariamente Indisponível]  |
+| Gerenciamento do Projeto  | Kanban  | https://github.com/orgs/ICEI-PUC-Minas-PMV-SInt/projects/17 |
 
 ## Controle de Versão
 
@@ -18,70 +20,47 @@ foi utilizado para hospedagem do repositório.
 
 O projeto segue a seguinte convenção para o nome de branches:
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+- `main`: Versão estável já testada do software
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+Quanto à gerência de issues, o projeto ainda não adota convenções pelo uso de etiquetas.
 
 ## Gerenciamento de Projeto
+
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Kanban estruturado com as seguintes listas: 
+
+Backlog: Esta é a lista de todas as tarefas que precisam ser feitas, mas que ainda não foram iniciadas. 
+Ready: As tarefas nesta coluna estão prontas para serem trabalhadas. Elas foram priorizadas e estão bem definidas o suficiente para que um membro da equipe possa começar a trabalhar nelas. 
+In Progress: Esta coluna contém tarefas que estão atualmente sendo trabalhadas.
+In Review: Esta coluna contém todas as tarefas que foram concluídas e aprovadas. Uma vez que uma tarefa está na coluna Done, ela é considerada completa.
 
 ### Divisão de Papéis
 
 Apresente a divisão de papéis entre os membros do grupo.
 
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
+- Scrum Master: Frederico Zampier;
+- Product Owner: Lucas Oliveira;
+- Equipe de Desenvolvimento: Lizandra Ruiz Cavalcante dos Santos, Marco Antonio de Oliveira Costa Júnior, Gustavo Santos da Silva, Mailson da Silva Costa, Nickolas Ribeiro de Mendonça, Arthur de Oliveira Viotti e Lucas Chagas de Oliveira.
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Nossa equipe está usando a metodologia Scrum e as ferramentas do GitHub para gerenciar nosso projeto:
+
+Scrum: Nossa equipe está se reunindo semanalmente para discutir o progresso do projeto e planejar o trabalho da próxima semana. Essas reuniões semanais são uma oportunidade para a equipe revisar o que foi feito, discutir quaisquer desafios e decidir sobre as próximas tarefas a serem realizadas.
+
+Além disso, temos uma reunião semanal com nosso professor, que nos permite obter feedback e orientação adicional sobre o projeto.
+
+GitHub: Estamos usando os quadros de projeto do GitHub para acompanhar o progresso das tarefas. As tarefas são adicionadas como Issues e movidas entre as colunas ‘Backlog’, ‘Ready’, ‘In Progress’, ‘In Review’ e ‘Done’ à medida que avançamos.
+Além disso, estamos usando o GitHub para controlar as versões do nosso código. Cada nova funcionalidade será desenvolvida em uma branch separada e depois mesclada de volta à branch principal.
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- Editor de código: Visual Studio Code
+- Ferramentas de comunicação: Microsoft Teams
+- Ferramentas de desenho de tela (Wireframe): MarvelApp
 
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+O VSC foi escolhido porque seu suporte a várias linguagens, sua extensa biblioteca de extensões, fácil utilização e familiaridade com os principais tutoriais disponíveis pela internet justificam-o.
+O Microsoft Teams é a opção ideal no gerenciamento de reuniões, é intuitivo, atualizado e com a sua capacidade de salvar reuniões tornam-o uma ótima ferramenta.
+Por fim , o MarvelApp tem um conjunto vasto de habilidades úteis aos wireframes que permitem representar o mais fiel possível de como queremos que o site se apresente visualmente ao usuário, além dos usos anteriores da equipe, é uma boa recomendação para trabalharmos com as telas.
